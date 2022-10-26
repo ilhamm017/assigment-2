@@ -22,11 +22,11 @@ Aplikasi Reflection yang dimana aplikasi ini digunakan untuk mencatat dan menguk
     
     Contoh :
     
-    ![009ee394d62aada47c8f341b79ac4453.png](../_resources/009ee394d62aada47c8f341b79ac4453.png)
+    ![009ee394d62aada47c8f341b79ac4453.png](../master/_resources/009ee394d62aada47c8f341b79ac4453.png)
     
     ### Jika menggunakan email yang sama maka akan terjadi error 
     
-    ### ![b3527babf2dc116cd4fba77476d3ef52.png](../_resources/b3527babf2dc116cd4fba77476d3ef52.png)
+    ### ![b3527babf2dc116cd4fba77476d3ef52.png](../master/_resources/b3527babf2dc116cd4fba77476d3ef52.png)
     
 2.  ## Login
     
@@ -36,13 +36,13 @@ Aplikasi Reflection yang dimana aplikasi ini digunakan untuk mencatat dan menguk
     ```
     
     ### Contoh :
-    ![cb689b30ebaaf052b71aa773f2ebcf1e.png](../_resources/cb689b30ebaaf052b71aa773f2ebcf1e.png)z
+    ![cb689b30ebaaf052b71aa773f2ebcf1e.png](../master/_resources/cb689b30ebaaf052b71aa773f2ebcf1e.png)z
     Jika menggunakan password atau email yang salah 
     
     |     |
     | --- |
-    | ![7f035202feaa5ff01b7caa1b462e0960.png](../_resources/7f035202feaa5ff01b7caa1b462e0960.png) |
-    | ![29b318b4ddc948a48cd92eec3c37cf8e.png](../_resources/29b318b4ddc948a48cd92eec3c37cf8e.png) |
+    | ![7f035202feaa5ff01b7caa1b462e0960.png](../master/_resources/7f035202feaa5ff01b7caa1b462e0960.png) |
+    | ![29b318b4ddc948a48cd92eec3c37cf8e.png](../master/_resources/29b318b4ddc948a48cd92eec3c37cf8e.png) |
     
 3.  ##  Create Reflection
     
@@ -53,12 +53,12 @@ Aplikasi Reflection yang dimana aplikasi ini digunakan untuk mencatat dan menguk
     
     |     |
     | --- |
-    | ![ef3984f82453320983f1370fae6ccad8.png](../_resources/ef3984f82453320983f1370fae6ccad8.png) |
-    | ![daad4d97e4d6b9fadfd7281d465521d4.png](../_resources/daad4d97e4d6b9fadfd7281d465521d4.png) |
+    | ![ef3984f82453320983f1370fae6ccad8.png](../master/_resources/ef3984f82453320983f1370fae6ccad8.png) |
+    | ![daad4d97e4d6b9fadfd7281d465521d4.png](../master/_resources/daad4d97e4d6b9fadfd7281d465521d4.png) |
     
     ### 
     Ketika Memasukkan **Token** yang salah 
-    ![1ed212cef42a5840a7014a25aebe4be8.png](../_resources/1ed212cef42a5840a7014a25aebe4be8.png)
+    ![1ed212cef42a5840a7014a25aebe4be8.png](../master/_resources/1ed212cef42a5840a7014a25aebe4be8.png)
     
 4.  ## Get all Reflections
     
@@ -68,7 +68,7 @@ Aplikasi Reflection yang dimana aplikasi ini digunakan untuk mencatat dan menguk
     ```
     
     Contoh :
-    ![4c13f815f9c8fc1b0207d3d1419ec900.png](../_resources/4c13f815f9c8fc1b0207d3d1419ec900.png)
+    ![4c13f815f9c8fc1b0207d3d1419ec900.png](../master/_resources/4c13f815f9c8fc1b0207d3d1419ec900.png)
     
 5.  ## Update Reflection
     
@@ -81,8 +81,8 @@ Aplikasi Reflection yang dimana aplikasi ini digunakan untuk mencatat dan menguk
     
     |     |
     | --- |
-    | ![77686526eda699fe3bf6186be4aef11d.png](../_resources/77686526eda699fe3bf6186be4aef11d.png) |
-    | ![f1eb9344dd7ccf11d7766e4507551939.png](../_resources/f1eb9344dd7ccf11d7766e4507551939.png) |
+    | ![77686526eda699fe3bf6186be4aef11d.png](../master/_resources/77686526eda699fe3bf6186be4aef11d.png) |
+    | ![f1eb9344dd7ccf11d7766e4507551939.png](../master/_resources/f1eb9344dd7ccf11d7766e4507551939.png) |
     
 6.  ## Delete Reflection
     
@@ -95,5 +95,5 @@ Aplikasi Reflection yang dimana aplikasi ini digunakan untuk mencatat dan menguk
     
     |     |
     | --- |
-    | ![85302c88b840dce9a51768177fded0b0.png](../_resources/85302c88b840dce9a51768177fded0b0.png) |
-    | ![815b52d46c0836a7accb94684a426d92.png](../_resources/815b52d46c0836a7accb94684a426d92.png) |
+    | ![85302c88b840dce9a51768177fded0b0.png](../master/_resources/85302c88b840dce9a51768177fded0b0.png) |
+    | ![815b52d46c0836a7accb94684a426d92.png](../master/_resources/815b52d46c0836a7accb94684a426d92.png) |
